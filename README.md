@@ -6,9 +6,7 @@ Combines multiple images with overlapping fields of view to produce a segmented 
 
 <p align="center">
 <img src="/input_imgs/field/image001.jpg" width="250"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/input_imgs/field/image002.jpg" width="250"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/input_imgs/field/image003.jpg" width="250"/>
 </p>
 
