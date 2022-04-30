@@ -2,6 +2,8 @@
 
 Combines multiple images with overlapping fields of view to produce a segmented Panorama by making homographies between them. By doing homographies transformations and blending them together nicely we can make Panoramas out of multiple images.
 
+## Overview
+
 #### Input Images
 
 <p align="center">
