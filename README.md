@@ -15,3 +15,7 @@ Combines multiple images with overlapping fields of view to produce a segmented 
 <p align="center">
 <img src="/output_imgs/panorama_pla_camp.jpg"/>
 </p>
+
+## References
+
+This project is based on "[Automatic Panoramic Image Stitching using Invariant Features](http://matthewalunbrown.com/papers/ijcv2007.pdf)" by Matthew Brown and David G. Lowe.
