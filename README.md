@@ -5,7 +5,7 @@ Combines multiple images with overlapping fields of view to produce a segmented 
 This is part of an optional Lab Assignment from the [Computer Vision](http://www.cvc.uab.es/shared/teach/a102784/) course at [UAB](https://www.uab.cat/).
 
 ## Overview
-Here are some examples with photos made by me.
+Here are some examples with photos made by myself.
 
 ## Example 1: Landscape
 <p align="center">
